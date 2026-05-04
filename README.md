@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Adi 👋
 
-<!--
-**ahansoty/ahansoty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Biomedical Engineering @ University of Michigan  
+> Building at the intersection of **machine learning**, **signal processing**, and **prosthetics**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🦾 Passionate about intelligent prosthetics and medical devices
+- 🔬 Undergraduate Researcher @ UIC Rehabilitation Robotics Lab
+- 🎯 Goal: Build technology that restores and enhances human movement
+-  Chelsea ⚽, Bears 🏈, Bulls 🏀, Wolverines 〽️ Fan
+
