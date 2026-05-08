@@ -1,11 +1,7 @@
 # Hi, I'm Adi 👋
-
-## Biomedical Engineering & Computer Science @ University of Michigan 〽️
-
----
-
-## Research
-Machine learning for prosthetics  
-UIC Rehabilitation Robotics Lab 🤖  
-
+ 
+**Biomedical Engineering & CS @ University of Michigan** 〽️
+ 
+I build at the intersection of machine learning and medical devices — with a focus on **prosthetics, neural interfaces, and rehabilitation robotics**.
+ 
 ---
