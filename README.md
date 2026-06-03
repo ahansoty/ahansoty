@@ -1,5 +1,7 @@
-### Hi, I'm Adi 👋
+### hi, i'm adi 👋
 
-**Biomedical Engineering + Computer Science @ University of Michigan**
+bme + cs @ university of michigan
 
-I build at the intersection of **machine learning and wearable robotics**.
+currently developing rehabilitation technologies at the uic robotics lab over the summer
+
+interested in prosthetics, neural interfaces, and anything at the intersection of ml and medicine
